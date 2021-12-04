@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+      "stm32f10x.h": "c",
+      "i2c.h": "c"
+    },
+
+    "terminal.integrated.profiles.windows": {
+        "Cmder": {
+          "path": "${env:windir}\\System32\\cmd.exe",
+          "args": ["/k", "C:\\cmder\\vendor\\bin\\vscode_init.cmd"]
+        }
+      },
+      "terminal.integrated.defaultProfile.windows": "Cmder",
+}

@@ -1,0 +1,1 @@
+[{"node":"GPIOB.IDR","expanded":true,"format":0},{"node":"I2C1","expanded":true,"format":0,"pinned":false},{"node":"I2C1.SR1","expanded":true,"format":0},{"node":"I2C1.SR2","expanded":true,"format":0},{"node":"I2C2.CR1","expanded":true,"format":0},{"node":"I2C2.SR2","expanded":true,"format":0},{"node":"RCC.CFGR","expanded":true,"format":0}]
